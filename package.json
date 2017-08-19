@@ -1,0 +1,26 @@
+{
+  "name": "forbes-profile-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape-profiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulrumalla/forbes-profile-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulrumalla/forbes-profile-scraper/issues"
+  },
+  "homepage": "https://github.com/rahulrumalla/forbes-profile-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csvtojson": "^1.1.7",
+    "fs": "0.0.1-security",
+    "json2csv": "^3.11.1",
+    "request": "^2.81.0"
+  }
+}
